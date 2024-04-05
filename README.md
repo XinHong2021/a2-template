@@ -4,6 +4,7 @@ You must read fully and carefully the assignment specification and instructions 
 
 * **Course:** COMP90054 AI Planning for Autonomy @ Semester 1, 2024
 * **Instructor:** Dr. Nir Lipovetzky, Dr.Joe West and Dr. Sarita Rosenstock
+* **Code Deadline:** Thursday 11th April, 2024 @ 18:00 (Mid of Week 6)
 * **Deadline:** Monday 15th April, 2024 @ 18:00 (start of Week 7)
 * **Course Weight:** 10%
 * **Assignment type:**: Individual
@@ -157,7 +158,14 @@ Don't forget there are a host of other resources to help with model building and
 
 ## Submission Instructions
 
-Your submission has four parts: a submission registration form; domain and problem files submitted through GitHub tag (as in assignment 1); a PDF file submission on Canvas--> Assignments --> Assignment 2; a submission certification form.
+Your submission has four parts:
+1. a submission registration form with **Deadline:** Thursday 11th April, 2024 @ 18:00 (Mid of Week 6);
+2. domain and problem files submitted through GitHub tag (as in assignment 1) with **Deadline:** Thursday 11th April, 2024 @ 18:00 (Mid of Week 6);
+3. a PDF file submission on Canvas--> Assignments --> Assignment 2 with **Deadline:** Monday 15th April, 2024 @ 18:00 (start of Week 7)
+4. a submission certification form with **Deadline:** Monday 15th April, 2024 @ 18:00 (start of Week 7)
+
+
+
 
 
 ### A2 registration form
@@ -166,6 +174,10 @@ Make sure you fill in the [A2 registration form](https://forms.gle/J6A85hPdx2gTV
 
 > **Warning**
 > Please be aware that you will **NOT** be able to get any feedback from online server until you fill in this form. 
+
+The result from the online server contains two parts: part1 to part 3, and part 4.
+1. Part 1 to Part 3 have 3 marks in total as indicator. It looks for exact matches on your solution with the sample solution, as we provided with predicate and action structure
+2. Part 4 will return a plan if your domain and problem files are valid. It does not mean your solution meets all requirements, you still have to justified it in your self evaluation.
 
 
 
@@ -179,6 +191,7 @@ Make sure you fill in the [A2 registration form](https://forms.gle/J6A85hPdx2gTV
     * Note that a tag is **NOT** a branch, so do not just create a branch called "submission" as that will not amount to tagging.
     * Note that a tag is **NOT** a commit message, so please make sure you can find it in your repo page -> tags
     * It is **case-sensitive**.
+    * The staff will use your last record with tag `submission` to mark your assignment along with your self evaluation.
 
 
 
