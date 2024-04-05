@@ -102,7 +102,7 @@ The criteria for code marking will be:
 - 1 point for encoding the 3 problems correctly and generate the correct solutions as per the specification of the problem
 - 4 points for encoding problem 4 correctly as per specification 
    - 1 point for handling more than one hero, all mentioned objects and object-passing functionality
-   - 1 point for making it turn based and additional actions,
+   - 1 point for making it turn based and additional actions
    - 1 points for making the turns being unfixed
    - 1 point for creating a problem with a valid solution for all heroes.
 
@@ -117,7 +117,7 @@ For problems 1-3 (together) and problem 4, write a brief self evaluation that in
     * 1 marks for problem files and plan correctness (Problems 1-3)
     - Problem 4:
         * 1 point for handling more than one hero, all mentioned objects and object-passing functionality
-        * point for making it turn based and additional actions,
+        * 1 point for making it turn based and additional actions
         * 1 points for making the turns being unfixed
         * 1 point for creating a problem with a valid solution for all heroes.
 
