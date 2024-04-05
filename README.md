@@ -177,9 +177,9 @@ Make sure you fill in the [A2 registration form](https://forms.gle/J6A85hPdx2gTV
 > **Warning**
 > Please be aware that you will **NOT** be able to get any feedback from online server until you fill in this form. 
 
-The result from the online server contains two parts: part1 to part 3, and part 4.
-1. Part 1 to Part 3 have 3 marks in total as indicator. It looks for exact matches on your solution with the sample solution, as we the structure of the domain and problem files are provided (there should be only one solution that both make sense semantically and syntactically). 
-2. Part 4 will return a plan if your domain and problem files are valid. It does not mean your solution meets all requirements, you still have to justified it in your self evaluation.
+Similarly as Assignment 1, you can use tag `test-submission` or `submission` to test. The **result** from the online server contains two parts: **part 1-3**, and **part 4**.
+1. **Part 1-3** have 3 marks in total. The server looks for exact matches on your solution with the sample solution, as the structures and hints of the domain and problem files are provided (there should be only one solution that both make sense semantically and syntactically). 
+2. **Part 4** will return a plan if your domain and problem files are valid. It does not mean your solution meets all requirements, and you still need to justify it in your self evaluation.
 
 
 
