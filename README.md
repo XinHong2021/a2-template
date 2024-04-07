@@ -88,7 +88,7 @@ Once you modeled correctly the three problems, please consider how would you cha
 
 Now some rooms are locked, and heroes need a key to enter them. Any key can open any locked room multiple times, but those locked rooms **stays locked**. The key works like the sword: if a hero has the key, they can't carry the sword or disarm traps, and the key has no sharing space with other items or monsters or traps. Heroes can pick up or destroy the key.
 
-Also, to save the resources heroes can give the item they hold to other hero if they're in the same room, but they **won't ask for items** themselves because they're shy. And remember, if there's a trap, they can't share items. Monsters might still attack heroes who don't have a sword, even if other heroes in the same room do.
+Also, to save the resources heroes can give the item they hold to other hero if they're in the same room, but they **won't ask for items** themselves because they're shy. And remember, if there's a trap, they can't share items. Monsters might still attack heroes who don't have a sword, even if other heroes in the same room do. The room won't be destroyed even one of the heroes leave the room. Rather, it will be destroyed only after all heroes leave the room.
 
 You will likely need to add or change existing predicates and actions. Include a **problem instance** with **more than one hero** and **more than one locked room** where all of them **CAN** reach their respective goals. Once a hero reaches a target goal location, you can assume the planner cannot assign more actions for that hero.
 
