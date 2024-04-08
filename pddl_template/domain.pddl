@@ -33,9 +33,6 @@
         
         ;Hero's holding a sword
         (holding ?s - swords)
-    
-        ;It becomes true when a trap is disarmed
-        (trap-disarmed ?loc)
         
     )
 
